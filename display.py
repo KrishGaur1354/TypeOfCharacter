@@ -1,4 +1,4 @@
-obj=open("D:\\CS\\story1.txt","r")
+obj=open("D:\\CS\\story1.txt","r") //WHERE THE .txt FILE IS SAVED
 s1=obj.read()
 print(s1)
 
